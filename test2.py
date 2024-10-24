@@ -1,3 +1,5 @@
+# А ЭТО МАСТЕР-ЛОМАСТЕР УЖЕ
+
 from tkinter import *
 from tkinter import messagebox as mb
 import requests
